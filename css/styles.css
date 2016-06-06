@@ -118,7 +118,7 @@ header.primary {
   text-align: center; }
   .branding a {
     display: inline-block;
-    max-width: 90px; }
+    max-width: 65px; }
 
 nav::before, nav::after {
   content: "";
