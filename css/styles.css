@@ -43,7 +43,7 @@ a, abbr, address, article, aside, audio, b, blockquote, body, canvas, cite, code
   box-sizing: border-box;
   font: inherit;
   font-size: 100%;
-  margin: 1;
+  margin: 0;
   outline: 0;
   padding: 0;
   vertical-align: baseline; }
